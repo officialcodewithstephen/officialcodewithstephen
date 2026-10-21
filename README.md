@@ -1,80 +1,60 @@
-# 👋 Hi, I'm Stephen Hale
+<img src="./assets/stephen-hale-header.svg" alt="Stephen Hale — Software Developer, building software that matters" width="100%" />
 
-Software Developer based in Norwich, United Kingdom.
+<div align="center">
 
-I enjoy building software that solves real problems. My interests include developer tooling, networking, server infrastructure, automation, and game technologies. I believe the best software is simple, maintainable, and built with a clear understanding of how it works under the hood.
+**Software Developer · Norwich, United Kingdom 🇬🇧**
 
----
+[![Website](https://img.shields.io/badge/Website-codewithstephen.com-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://codewithstephen.com)
+[![GitHub](https://img.shields.io/badge/GitHub-CodeWithStephen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeWithStephen)
 
-## 🚀 What I Do
+*Building software, developer tools, and infrastructure with purpose.*
 
-- Build applications with C# and .NET
-- Develop server management and automation tools
-- Create developer tooling and utilities
-- Work with networking, APIs, and infrastructure
-- Design clean and maintainable software architectures
+</div>
 
 ---
 
-## 🛠 Technologies
+## About me
 
-### Languages
-- C#
-- JavaScript
-- SQL
-- C++
+Hey, I’m **Stephen**, a software developer based in Norwich, UK. I enjoy building reliable, maintainable software and understanding how it works beneath the surface—from application architecture and developer tools to backend services, infrastructure, automation, and game technologies.
 
-### Frameworks & Platforms
-- .NET
-- ASP.NET
-- WinForms
-- Entity Framework
+I aim for practical solutions with clean architecture, good performance, and room to maintain and grow.
 
-### Interests
-- Software Architecture
-- Networking
-- Server Infrastructure
-- Developer Tooling
-- Game Technology
-- Automation
+## What I work on
 
----
+- Applications with **C# and .NET**
+- Server management and automation tools
+- Developer utilities and tooling
+- Networking, APIs, and infrastructure
+- Clean, maintainable software architecture
 
-## 📂 Featured Projects
+## Technologies
 
-| Project | Description |
-|----------|-------------|
-| **IW4MAdmin Discord Webhook Bot** | Discord webhook integration for IW4MAdmin providing server status, player activity, top stats, join/leave tracking, restart notifications, chat activity, and rule enforcement alerts. |
-| **CWS Server Toolbox Menu** | Advanced IW4x server administration menu featuring moderation tools, server controls, map voting, player management, and administration utilities. |
+**Languages**
 
----
+![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 
-## 🌐 Website
+**Frameworks & platforms**
 
-**https://codewithstephen.com**
+.NET · ASP.NET · WinForms · Entity Framework
 
----
+## Featured projects
 
-## 💭 Philosophy
+| Project | What it does |
+| --- | --- |
+| **IW4MAdmin Discord Webhook Bot** | Connects IW4MAdmin to Discord with server status, player activity and stats, join/leave tracking, restart notifications, chat activity, and rule enforcement alerts. |
+| **CWS Server Toolbox Menu** | An IW4x server administration menu with moderation, server controls, map voting, player management, and administration utilities. |
 
-I don't just use technology.
+## How I think about software
 
-I enjoy understanding how it works.
+> Build it well. Keep it simple. Make it maintainable.
 
-Whether I'm building tools, infrastructure, automation systems, or game technologies, my goal is always the same:
+## Find me online
 
-Build it well.  
-Keep it simple.  
-Make it maintainable.
+- **Website:** [codewithstephen.com](https://codewithstephen.com)
+- **GitHub:** [@CodeWithStephen](https://github.com/CodeWithStephen)
 
----
-
-## 📫 Connect
-
-Feel free to explore my repositories, open issues, or contribute to any project that interests you.
-
-Always happy to discuss software development, architecture, networking, and developer tooling.
-
----
-
-> Software is engineering. Software is craft. Software is art.
+Feel free to explore my repositories, open an issue, or contribute to a project. I’m always happy to talk about software development, architecture, networking, and the tools that make building software better.
